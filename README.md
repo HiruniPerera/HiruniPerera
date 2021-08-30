@@ -2,7 +2,7 @@
 
 
 
-## BSc (Hons) in Software Engineering - University of Plymouth(UK) 2019-2022
+## EDucation: BSc (Hons) in Software Engineering - University of Plymouth(UK) 2019-2022
 
 - ✨ British Computer Society Student member and Undergraduate
 - 🌱 I’m currently learning everything
