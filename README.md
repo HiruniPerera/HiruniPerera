@@ -1,4 +1,4 @@
-### Hello, I'm HIRUNI PERERA - Software Engineering Undergraduate
+### HELLO, I'm HIRUNI PERERA - PROGRAMMER/UNDERGRADUATE
 
 
 
