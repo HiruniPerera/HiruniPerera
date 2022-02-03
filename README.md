@@ -2,8 +2,12 @@
 
 
 
-## Education: BSc (Hons) in Software Engineering - University of Plymouth(UK) 2019-2022
+## Education
+BSc (Hons) in Software Engineering - University of Plymouth(UK) 2019-2022\
+BCS The Charetered Institute for IT - Proffessional Certificate in IT
+BCS The Charetered Institute for IT - Reading for the Proffessional Diploma in IT
 
+## ABOUT ME
 - ✨ British Computer Society Student member and Undergraduate
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
